@@ -20,7 +20,7 @@ app.post('/chat', async (req, res) => {
             data,
             {
                 headers: {
-                    Authorization: "Bearer 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",
+                    Authorization: "Bearer hf_#############################",
                     "Content-Type": "application/json"
                 }
             }
